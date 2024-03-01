@@ -57,3 +57,7 @@ here,
 8000 => ...this port inside the container 
 
 -----------------------
+
+### Restart Policies
+
+![alt text](./assets/img/restart_policies.png)
