@@ -25,6 +25,12 @@
 * docker build .
 * docker build -t dininduchamikara/redis:latest
 * docker run -p 8080:8080 `<image id>`
+* docker-compose up
+* docker run -d redis
+* docker-compose up -d
+* docker-compose down
+* docker-compose up --build
+* docker-compose ps
 
 ---------------------
 
@@ -61,3 +67,5 @@ here,
 ### Restart Policies
 
 ![alt text](./assets/img/restart_policies.png)
+
+-----------------------
